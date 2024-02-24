@@ -159,11 +159,6 @@ lightgbm==3.3.3
 llvmlite==0.38.0
 locket==0.2.1
 lxml==4.8.0
-lz4-c==1.9.3
-lzo==2.1
-m2-msys2-runtime==2.5.0.17080.65c939c
-m2-patch==2.7.5
-m2w64-libwinpthread-git==5.0.0.4634.697f757
 markdown==3.3.4
 markupsafe==2.0.1
 matplotlib==3.5.1
