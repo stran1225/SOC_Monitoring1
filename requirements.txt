@@ -199,8 +199,6 @@ parso==0.8.3
 partd==1.2.0
 pathspec==0.10.3
 patsy==0.5.2
-pcre==8.45
-pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
 pillow==9.0.1
