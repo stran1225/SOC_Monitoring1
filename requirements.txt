@@ -243,7 +243,6 @@ pyproj==3.4.1
 pyqt5==5.15.7
 pyqt5-qt5==5.15.2
 pyqt5-sip==12.11.0
-pyqtwebengine==5.15.10
 pyreadline==2.1
 pyrsistent==0.18.0
 pysocks==1.7.1
