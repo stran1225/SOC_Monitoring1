@@ -240,7 +240,6 @@ pyodbc==4.0.32
 pyopenssl==21.0.0
 pyparsing==3.0.4
 pyproj==3.4.1
-pyqt==5.15.10
 pyqt5==5.15.7
 pyqt5-qt5==5.15.2
 pyqt5-sip==12.11.0
