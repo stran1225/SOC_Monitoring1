@@ -171,7 +171,6 @@ multipledispatch==0.6.0
 munch==2.5.0
 munkres==1.1.4
 mypy_extensions==0.4.3
-navigator-updater==0.2.1
 nbclassic==1.0.0
 nbclient==0.5.13
 nbconvert==6.4.3
