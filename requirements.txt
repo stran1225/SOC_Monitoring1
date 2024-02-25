@@ -246,8 +246,6 @@ pyqt5-sip==12.11.0
 pyreadline==2.1
 pyrsistent==0.18.0
 pysocks==1.7.1
-pytables==3.6.1
-pytest==7.1.1
 python==3.9.12
 python-dateutil==2.8.2
 python-dotenv==0.21.0
