@@ -232,7 +232,7 @@ pygments==2.11.2
 pyhamcrest==2.0.2
 pyjwt==2.1.0
 pykrige==1.7.0
-pylint==2.12.2
+pylint==3.0.0
 pylint-venv==2.3.0
 pyls-spyder==0.4.0
 pynacl==1.4.0
