@@ -327,7 +327,6 @@ trackpy==0.5.0
 traitlets==5.9.0
 traittypes==0.2.1
 twisted==22.2.0
-twisted-iocpsupport==1.0.2
 typed-ast==1.4.3
 typing-extensions==4.1.1
 typing_extensions==4.1.1
