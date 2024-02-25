@@ -273,7 +273,6 @@ ruamel.yaml.clib==0.2.6
 s3transfer==0.5.0
 scikit-image==0.19.3
 scikit-learn==1.0.2
-scikit-learn-intelex==2021.5.0
 scipy==1.7.3
 scooby==0.7.0
 scrapy==2.6.1
