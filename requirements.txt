@@ -360,7 +360,6 @@ xlsxwriter==3.0.3
 xyzservices==2022.9.0
 yapf==0.31.0
 yarl==1.6.3
-zfp==0.5.5
 zict==2.0.0
 zipp==3.7.0
 zlib==1.2.12
