@@ -317,7 +317,6 @@ three-merge==0.1.1
 tifffile==2021.7.2
 tinycss==0.4
 tinycss2==1.2.1
-tk==8.6.11
 tldextract==3.2.0
 toml==0.10.2
 tomli==2.0.1
