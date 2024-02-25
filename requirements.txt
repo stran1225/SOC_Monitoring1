@@ -358,7 +358,6 @@ xgboost==1.7.1
 xlrd==2.0.1
 xlsxwriter==3.0.3
 xyzservices==2022.9.0
-xz==5.4.5
 yaml==0.2.5
 yapf==0.31.0
 yarl==1.6.3
