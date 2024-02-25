@@ -286,7 +286,6 @@ sip==6.7.12
 six==1.16.0
 slicerator==1.1.0
 smart_open==5.1.0
-snappy==1.1.9
 sniffio==1.2.0
 snowballstemmer==2.2.0
 sortedcollections==2.1.0
@@ -299,8 +298,6 @@ sphinxcontrib-htmlhelp==2.0.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-spyder==5.4.3
-spyder-kernels==2.4.3
 sqlalchemy==1.4.32
 sqlite==3.41.2
 sqlparse==0.4.3
