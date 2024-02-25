@@ -255,11 +255,6 @@ pyyaml==6
 pyzmq==25.1.2
 qdarkstyle==3.0.2
 qstylizer==0.2.2
-qt==5.15.7
-qt-main==5.15.2
-qt-webengine==5.15.9
-qtawesome==1.2.2
-qtconsole==5.4.2
 qtpy==2.4.1
 queuelib==1.5.0
 referencing==0.33.0
