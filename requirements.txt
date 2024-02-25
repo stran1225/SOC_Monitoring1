@@ -362,7 +362,6 @@ yapf==0.31.0
 yarl==1.6.3
 zict==2.0.0
 zipp==3.7.0
-zlib==1.2.12
 zope==1
 zope-event==4.6
 zope.interface==5.4.0
