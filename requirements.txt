@@ -304,17 +304,8 @@ stack_data==0.2.0
 statsmodels==0.13.2
 sympy==1.10.1
 tabulate==0.8.9
-tbb==2021.5.0
-tbb4py==2021.5.0
 tblib==1.7.0
 tenacity==8.0.1
-tensorboard==2.11.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
-tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.0
-tensorflow-io-gcs-filesystem==0.28.0
 termcolor==2.1.1
 terminado==0.13.1
 testpath==0.5.0
