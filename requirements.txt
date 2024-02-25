@@ -236,7 +236,6 @@ pylint==3.0.0
 pylint-venv==2.3.0
 pyls-spyder==0.4.0
 pynacl==1.4.0
-pyodbc==4.0.32
 pyopenssl==21.0.0
 pyparsing==3.0.4
 pyproj==3.4.1
