@@ -363,7 +363,7 @@ zope.interface==5.4.0
 zstandard==0.19.0
 zstd==1.5.2
 tensorboard==2.11.0
-tensorboard-data-server==0.7.2
+tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
 tensorflow-estimator==2.15.0
