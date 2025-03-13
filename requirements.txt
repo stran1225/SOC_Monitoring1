@@ -209,7 +209,7 @@ pluggy==1.0.0
 ply==3.11
 pooch==1.6.0
 protego==0.1.16
-protobuf==3.19.1
+protobuf==3.19.6
 psutil==5.9.0
 ptyprocess==0.7.0
 pure_eval==0.2.2
