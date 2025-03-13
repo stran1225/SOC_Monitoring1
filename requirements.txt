@@ -147,7 +147,7 @@ jupyterlab==4.0.11
 jupyterlab-server==2.25.1
 jupyterlab_pygments==0.1.2
 jupyterlab_widgets==3.0.9
-keras==3.4.1
+keras==2.11.0
 keyring==23.13.1
 kiwisolver==1.4.4
 lazy-object-proxy==1.6.0
