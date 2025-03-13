@@ -141,7 +141,7 @@ jupyter-core==5.5.0
 jupyter-events==0.8.0
 jupyter-lsp==2.2.0
 jupyter-server-terminals==0.4.4
-jupyter_client==8.6.0
+jupyter_client==7.5.0
 jupyter_console==6.4.0
 jupyterlab==4.0.11
 jupyterlab-server==2.25.1
