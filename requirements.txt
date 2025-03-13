@@ -366,4 +366,4 @@ tensorboard==2.17.0
 tensorboard-data-server==0.7.2
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
-tensorflow-estimator==2.17.0
+tensorflow-estimator==2.15.0
